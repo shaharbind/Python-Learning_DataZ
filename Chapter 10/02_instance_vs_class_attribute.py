@@ -5,7 +5,7 @@ class Employee:
 
 
 a2 = Employee() # Here a2 is a object
-a2.language = "English"
+a2.language = "English" # Here we created instance objects 
 
 print(a2.name,a2.language, a2.salary)
 
